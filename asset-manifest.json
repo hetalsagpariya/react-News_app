@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-NewApp/static/css/main.16e18a48.chunk.css",
-    "main.js": "/react-NewApp/static/js/main.7ab46928.chunk.js",
-    "main.js.map": "/react-NewApp/static/js/main.7ab46928.chunk.js.map",
-    "runtime~main.js": "/react-NewApp/static/js/runtime~main.991872a2.js",
-    "runtime~main.js.map": "/react-NewApp/static/js/runtime~main.991872a2.js.map",
-    "static/js/2.ec6dda78.chunk.js": "/react-NewApp/static/js/2.ec6dda78.chunk.js",
-    "static/js/2.ec6dda78.chunk.js.map": "/react-NewApp/static/js/2.ec6dda78.chunk.js.map",
-    "static/js/3.b019360d.chunk.js": "/react-NewApp/static/js/3.b019360d.chunk.js",
-    "static/js/3.b019360d.chunk.js.map": "/react-NewApp/static/js/3.b019360d.chunk.js.map",
-    "index.html": "/react-NewApp/index.html",
-    "precache-manifest.275d9ae9a6bce26d1d8cc9ea25c83cac.js": "/react-NewApp/precache-manifest.275d9ae9a6bce26d1d8cc9ea25c83cac.js",
-    "service-worker.js": "/react-NewApp/service-worker.js",
-    "static/css/main.16e18a48.chunk.css.map": "/react-NewApp/static/css/main.16e18a48.chunk.css.map",
-    "static/media/loading1.gif": "/react-NewApp/static/media/loading1.747d0ffa.gif"
+    "main.css": "/react-News_app/static/css/main.16e18a48.chunk.css",
+    "main.js": "/react-News_app/static/js/main.7ab46928.chunk.js",
+    "main.js.map": "/react-News_app/static/js/main.7ab46928.chunk.js.map",
+    "runtime~main.js": "/react-News_app/static/js/runtime~main.a251c3c0.js",
+    "runtime~main.js.map": "/react-News_app/static/js/runtime~main.a251c3c0.js.map",
+    "static/js/2.ec6dda78.chunk.js": "/react-News_app/static/js/2.ec6dda78.chunk.js",
+    "static/js/2.ec6dda78.chunk.js.map": "/react-News_app/static/js/2.ec6dda78.chunk.js.map",
+    "static/js/3.b019360d.chunk.js": "/react-News_app/static/js/3.b019360d.chunk.js",
+    "static/js/3.b019360d.chunk.js.map": "/react-News_app/static/js/3.b019360d.chunk.js.map",
+    "index.html": "/react-News_app/index.html",
+    "precache-manifest.f7232dea3a2a454ee5c3abc5be3405fc.js": "/react-News_app/precache-manifest.f7232dea3a2a454ee5c3abc5be3405fc.js",
+    "service-worker.js": "/react-News_app/service-worker.js",
+    "static/css/main.16e18a48.chunk.css.map": "/react-News_app/static/css/main.16e18a48.chunk.css.map",
+    "static/media/loading1.gif": "/react-News_app/static/media/loading1.747d0ffa.gif"
   }
 }
